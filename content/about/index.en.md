@@ -15,7 +15,7 @@ Ceph Indonesia Community is a vibrant and dynamic community dedicated to promoti
 ### 2023 Updates
 **Jun 28, 2023**
 
-[Ary](https://github.com/aryulianto) initiated the create of a website using [Hugo](https://gohugo.io/) for the Ceph Indonesia Community. If anyone would like to contribute, you can see the [Source Code](https://github.com/openinfraid/web-ceph-id.git) and don't hesitate to send Pull Request. 🙂
+[Ary](https://github.com/aryulianto) initiated the create of a website using [Hugo](https://gohugo.io/) for the Ceph Indonesia Community. If anyone would like to contribute, you can see the [Source Code](https://github.com/ceph-id/ceph-id-website) and don't hesitate to send Pull Request. 🙂
 
 <hr>
 

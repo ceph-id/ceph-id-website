@@ -114,4 +114,4 @@ link = "https://instagram.com/openinfraid"
 [[social]]
 title = "github"
 icon = "fab fa-github" # fontawesome icon : https://fontawesome.com/icons
-link = "https://github.com/openinfraid"
+link = "https://github.com/ceph-id"
