@@ -16,5 +16,5 @@ weight = 2
 
 [[footer]]
 name = "Source Code"
-url = "https://github.com/openinfraid/web-ceph-id/"
+url = "https://github.com/ceph-id/ceph-id-website"
 weight = 3
