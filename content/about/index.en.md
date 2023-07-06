@@ -6,7 +6,7 @@ draft: false
 ignoreSearch: true
 ---
 
-## Ceph Indonesia Community
+<p align="center"> <img src="https://raw.githubusercontent.com/ceph-id/ceph-id-artworks/main/CIC-logos/CIC-logo-white-500x200.png" width="450">
 
 Ceph Indonesia Community is a vibrant and dynamic community dedicated to promoting and fostering the adoption of Ceph in Indonesia. As a community, we strive to empower individuals, organizations, and enterprises by sharing knowledge, best practices, and resources related to Ceph.
 
