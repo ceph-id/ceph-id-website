@@ -7,6 +7,6 @@ draft: false
 
 Ceph Indonesia Meetup
 {{< collapse "2023" >}}
-- [20230700 - Bogor](20230700)
+- [#001 - Jakarta Pusat](20230902)
 - TBD
 {{< /collapse >}}
